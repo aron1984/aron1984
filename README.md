@@ -1,4 +1,4 @@
-- 👋 Hi, soy @aron1984 (Alejandro RONconi)
+- 👋 Hi, I am @aron1984 (Alejandro RONconi)
 - 👀 Frontend Developer 
 - 🌱 I am currently studying REACT and English.
 - Some frameworks and dependencies that I manage are:
