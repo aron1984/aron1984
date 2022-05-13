@@ -1,9 +1,10 @@
-- 👋 Hola, soy @aron1984 (Alejandro RONconi)
+- 👋 Hi, soy @aron1984 (Alejandro RONconi)
 - 👀 Frontend Developer 
-- 🌱 Me encuentro estudiando en profundidad:
+- 🌱 I am currently studying REACT and English.
+- Some frameworks and dependencies that I manage are:
       Angular - Angular Material - Bootstrap - Leaflet - JS - CSS3 - HTML5 - Firebase
-- 💞️ Mis próximos pasos son React y Phyton.
-- 📫 LIc. en Geografía, estudiante de diseño gráfico, dibujante por naturaleza, y apasionado del desarrollo web.
+- 💞️ My roadmap continues with: React Native.
+- 📫 Lic. in Geography, fan of graphic design, cartoonist by nature, and passionate about web development.
 
 <!---
 aron1984/aron1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
