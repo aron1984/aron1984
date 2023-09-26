@@ -1,6 +1,6 @@
 Hi, I am @aron1984 (Alejandro Ronconi)
 - 👀 Frontend Developer (Telecom)
-- 🌱 I am currently studying ***REACT & NEXT.JS*** and English.
+- 🌱 I am currently deepening of studies: ***REACT & NEXT.JS*** and English.
   Skills:
        ***React*** - ***NextJS*** - Leaflet - JS - Sass - Css - HTML5 - Jest - Cypres - Firebase - MaterialUI - NextUI - Bootstrap
 - 💞️ My roadmap continues with: ***TailwindCss***, CI/CD, ***TDD*** & Design patterns.
